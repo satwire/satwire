@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **satwire/satwire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,10 +13,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Metrics](/assets/metrics.plugin.introduction.svg)
-![Metrics](/assets/metrics.plugin.languages.indepth.svg)
-![Metrics](/assets/metrics.plugin.isocalendar.svg)
-![Metrics](/assets/metrics.plugin.calendar.full.svg)
-![Metrics](/assets/metrics.plugin.leetcode.svg)
-![Metrics](/assets/metrics.plugin.anilist.svg)
-![Metrics](/assets/metrics.plugin.steam.svg)
+[<img width="640" alt="🔧" src="assets/metrics.plugin.introduction.svg">](#)
+[<img width="640" alt="🔧" src="assets/metrics.plugin.languages.indepth.svg">](#)
+[<img width="640" alt="🔧" src="assets/metrics.plugin.isocalendar.svg">](#)
+
+<details open>
+<summary>Yearly contributions</summary>
+
+[<img width="640" alt="🔧" src="assets/metrics.plugin.calendar.full.svg">](#)
+
+</details>
+
+---
+
+[<img width="640" alt="🔧" src="assets/metrics.plugin.leetcode.svg">](#)
+[<img width="640" alt="🔧" src="assets/metrics.plugin.anilist.svg">](#)
+[<img width="640" alt="🔧" src="assets/metrics.plugin.steam.svg">](#)
