@@ -1,4 +1,4 @@
-name: metrics.api.steam
+name: metrics
 
 on:
     schedule: [{ cron: "0 16 * * *" }]
@@ -8,27 +8,16 @@ jobs:
     metrics:
         runs-on: ubuntu-latest
         steps:
-            - name: Steam profile
+            - name: Steam
               uses: lowlighter/metrics@latest
               with:
-                  filename: assets/metrics.plugin.steam.player.svg
+                  filename: assets/metrics.plugin.steam.svg
                   token: NOT_NEEDED
                   base: ""
                   plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
                   plugin_steam: yes
                   plugin_steam_user: ${{ secrets.STEAM_USER }}
-                  plugin_steam_sections: player
+                  plugin_steam_sections: player, recently-played
                   plugin_steam_playtime_threshold: 2
-
-            - name: Recently played games
-              uses: lowlighter/metrics@latest
-              with:
-                  filename: assets/metrics.plugin.steam.recent.svg
-                  token: NOT_NEEDED
-                  base: ""
-                  plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
-                  plugin_steam: yes
-                  plugin_steam_user: ${{ secrets.STEAM_USER }}
-                  plugin_steam_sections: recently-played
-                  plugin_steam_recent_games_limit: 3
-                  plugin_steam_achievements_limit: 1
+                  plugin_steam_recent_games_limit: 1
+                  plugin_steam_achievements_limit: 0
