@@ -8,6 +8,15 @@ jobs:
     metrics:
         runs-on: ubuntu-latest
         steps:
+            - name: Full history calendar
+              uses: lowlighter/metrics@latest
+              with:
+                  filename: assets/metrics.plugin.calendar.full.svg
+                  token: ${{ secrets.METRICS_TOKEN }}
+                  base: ""
+                  plugin_calendar: yes
+                  plugin_calendar_limit: 0
+
             - name: Steam
               uses: lowlighter/metrics@latest
               with:

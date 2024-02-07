@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Metrics](/assets/metrics.plugin.calendar.full.svg)
 ![Metrics](/assets/metrics.plugin.steam.svg)
