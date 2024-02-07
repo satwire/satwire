@@ -15,5 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Metrics](/assets/metrics.plugin.introduction.svg)
+![Metrics](/assets/metrics.plugin.languages.indepth.svg)
+![Metrics](/assets/metrics.plugin.isocalendar.svg)
 ![Metrics](/assets/metrics.plugin.calendar.full.svg)
+![Metrics](/assets/metrics.plugin.leetcode.svg)
+![Metrics](/assets/metrics.plugin.anilist.svg)
 ![Metrics](/assets/metrics.plugin.steam.svg)
