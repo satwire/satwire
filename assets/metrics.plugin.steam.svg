@@ -52,9 +52,9 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAwADAQEAAAAAAAAAAAAABQYHAgMEAQj/xAAyEAABAwMCBAQEBQUAAAAAAAABAgMEAAURBhIHITFBEyIyUQgUFRYXYXGBsSMzQnKR/8QAGAEBAQEBAQAAAAAAAAAAAAAAAQACAwT/xAAYEQEBAQEBAAAAAAAAAAAAAAABABECIf/aAAwDAQACEQMRAD8AlBWqUvzivFxPKdlZQl7UZ60RUnKQcYzXYvP11BlRFHCVd61fLFQJQCV9MUbUnDYJ65pk4V2L69reA2UborLm58dttTRTd+NsWPEBSewNcLjROf1qxfENplux6qS/CQEwXkJS2B03d6lKgFc6iWGOJKEgpNYsylxZKHkEFQ7VvkdSMcqHOkBZIzyoZJ2hDzijSR5BkUMt6ML50YJG2tFzSHupKF5PqPQVWNCtI0pwvvGoXPJOnIUwwD1yk9qmcKE7d7pEt7Ay8+5tTVA483Ru3s2rTEUBDUNpDq8d1FPOptc22S79+8FXpEo+JdrUtb5SPVtPIVBlBSPKobV471V+At9ahasXapnmi3YfLqSenvSPxEsjunNX3GDI6FxTjf8AqTyoJZYf50KeH9SiS19aHyRg5pY2eIzvsMflTfovTcvVr0hiE6kPMIC9mOZpGikkbeiveqpwJvFus2on5N6nNw2toCFqOAo+1DGVE4fcOk6O+Z1HqJ1ClRkb20Yx4ZHc0qaP0F+J1xuF+vMrMRTy0NtpJCsA+9Ujjhd9/Dl963PJciyUlKnEHIKajfCq9XyPao7NoukaOA4SplxGTj3rBdEI1xE4Q/aEP7j07K2ogYcLSySr9jTBrTQzPFXSVsv9mcQ3c0tJQ6SM+JgDl+uaB8Rr3qW4WK5uTJ8f6Stnw07UY8RY6gUxfDBdHTpOTHkK2w45LiVqPLJPOpkygHEDh7ctEw4si5uo3yFlAaxgjFID5AQff+K+gfij1DZb85BRZ7i1NeYcIdQ0fRyr59dKB1HmPIHsK2WE9myOM8yc++K6mnw0khaQ4wrkeXMUOWXIznhrSUL9jWSpKUo8h5Hkc+9RZRqNpy9XWNbHrbbl/V7dJTtkRPUttP5E9KC22HPh35uTZYrzTyF5ENZ3KNJrU55lRUw+thZ6lCinIo/buIt9tQT8kuKVI/zca3KP71JPuTHq6RfrzNZbvsZyOwjmIjY27j/Ga8u95vEXTyLM0k2KyJysBz+66T1G4Uu3PifqK6JImLhk+4aAV/2k6bcZMxZXJfdcyfStRIFQV7ZXSS04C2yMNA81n1KP60Hd6+Y4z6a6FOZVlQyB2FaUMOyZIQ0CtauSUjtUwbt//9k=" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAABwMEBggBAgUA/8QALhAAAQMDAgUDBAEFAAAAAAAAAQIDBAAFEQYSBxMhMVEUQWEiMnGBCCMkUnKR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAIBA//EABwRAAICAwEBAAAAAAAAAAAAAAACAREDEjEhQf/aAAwDAQACEQMRAD8AA8yU7Of5juM4x0FaBs4rzYG6lwOnmgEAg5p1brbKuMkMQ2VOPK7JA709sNtXd7vFgNnat9W0E+1GfQDFt09eWkPIQHUq25WM5IoAJXew3KzrSm4xXGVq7BQrnbDV4JLNo1dbhCkMx1oeJQ4QgbwPg+1VI19p1zTGqJdscOdqipH+hPSnQRbYcHpWY7zkSQl1vG4eaXx+qQdAzmgMN/dTgU3b+6nAoCbcIWOdrSGoI3BtWTXb1jdo9j1shyaeYoOEqaScFI8mluArCGp14uD4HLYYCgrwaHc2ei76mkSpbgV/XWn6upKc9Kx5orGu3gc+G+qrbcp6pVskcl3OFxXFZUkf5fuoj/IvlvazTLQRucZQk4/FD+BJGm9Ww5Ed0FkrClFPQEeKlnF2SqbIhzFDo6kbT+qY5sZV1mpB3SDvel6Qd71pJhvoqnGBW1rgSZ75biNKcKeqsewrtGz+huUZmQ4lzmEAY9j4oCdaUkLtHCa7vttkyZKVNpSO/fvQWtMyO3IcM9ta0k5IScEGjFcNH3hMb+2kjlbAotjOAD8VHG9EvOyUPXO3PczPRaOiVD8VjelJOskWvD7eoLjCt9iYcQSQEhXU5/NFTWFlkydHMPrTuEFsbiB7gYNSfQHDZbbapTMItPr6LcWM/T7bfBokOWNLdu9KGw4hXReRkGsSNSsjS83JTnrjPmkHO4o/ao4KrkOOP2d0NH7ylXXPwKC2pLBcrDKLNzirYVnCdw7/ADVHMbWy5SoBV6RaUFXQqIrov3hx5yCtaNyo7m8ke9cJ9l2K7seSUn5rwdI7ZrpDrVTBzlWu1kNdg4hQHSlMxXpk7Qk8w53UQ7LerVdIrrcJxuS2U9CO6TVUub5AP5p3b7rKtzwchvLbUPYHA/5TVG5NDZ17FlvpGuYNjsyE3R5tsZKcJODgVBpnG23MOqTEiOOAfarcCKrxMuUmY4VyXnHFE5wpWRTbmn2GPNKRe+jZ254HC5cdbi+kpiRg0B23JBoc6z1zd9UIQi5qjqQk5BS3hQ/dRTmE1qhDkh5KG0lSj4pLr8UQrfWP/9k=" alt="" />
                             <div class="about">
-                                <div class="name">Assassin's Creed IV Black Flag</div>
+                                <div class="name">Assassin's Creed</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -68,7 +68,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        80 hours played
+                                        3 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -76,7 +76,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 18 Aug 2024
+                                        Last played on 20 Aug 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
