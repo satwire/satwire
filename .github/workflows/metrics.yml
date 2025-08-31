@@ -68,7 +68,7 @@ jobs:
                   plugin_anilist: yes
                   plugin_anilist_user: ${{ secrets.ANILIST_USER }}
                   plugin_anilist_medias: anime
-                  plugin_anilist_sections: favorites, watching
+                  plugin_anilist_sections: characters
                   plugin_anilist_limit: 1
 
             - name: Steam
