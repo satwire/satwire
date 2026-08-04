@@ -27,5 +27,4 @@ Here are some ideas to get you started:
 ---
 
 [<img width="640" alt="🔧" src="assets/metrics.plugin.leetcode.svg">](#)
-[<img width="640" alt="🔧" src="assets/metrics.plugin.anilist.svg">](#)
 [<img width="640" alt="🔧" src="assets/metrics.plugin.steam.svg">](#)
